@@ -1,0 +1,3 @@
+姓名：小猪
+PeopleStudent.InputTest@677327b6
+class PeopleStudent.InputTest
